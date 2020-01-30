@@ -1,4 +1,4 @@
-#Generative Adversarial Networks
+# Generative Adversarial Networks
 
 Generative Adversarial Networks comprise of a Generator(G) and a Discriminator(D). 
 
