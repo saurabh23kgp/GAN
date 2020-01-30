@@ -2,3 +2,5 @@ In the standard DCGANs, we are not able to control the output which is randomly 
 So, we Conditional GANs helps in controlling the output that is thrown by the generator by conditioning the Generator(G) on the label.
 There is slight modification as compared to the objecctive function of standard DCGANs. The original paper points out the same
 (https://arxiv.org/abs/1411.1784)
+
+Also, this work is a part of my summer internship. The code with proper output was lost, but this code is exact same work which was used then. Also, the work was done on Kaggle's kernel to use its GPU, hence the filepath is given accordingly.
